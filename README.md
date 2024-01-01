@@ -11,9 +11,6 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
 
 - 🔭 I’m currently working on [Namaa Infologistics](https://namaa-il.com/)
 
-- 📫 How to reach me: [mohamed.elareeg.contact@gmail.com](mailto:mohamed.elareeg.contact@gmail.com) | Phone: +201001029570
-
-
 <h3 align="left">Connect with me:</h3>
 
 
