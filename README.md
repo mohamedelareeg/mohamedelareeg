@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Sayed</h1>
 
-### About Me
-
-I am an accomplished Senior Software Engineer with expertise in .NET and Java development. I have had a distinguished career trajectory, transitioning from an accomplished Accountant to a seasoned software professional. Holding a Master of Business Administration (MBA) degree from the esteemed Faculty of Commerce, I leverage a multifaceted skill set that blends financial acumen with advanced technical proficiencies. I am dedicated to delivering sophisticated and high-impact solutions, adept at navigating complex software landscapes, and committed to achieving excellence through strategic problem-solving and innovative development practices.
+<h3 align="center">Accomplished Senior Software Engineer | .NET and Java Developer | MBA Graduate</h3>
 
 ### Looking for Opportunities
 
@@ -11,20 +9,36 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelareeg" alt="mohamedelareeg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bmohaa" target="blank"><img src="https://img.shields.io/twitter/follow/bmohaa?logo=twitter&style=for-the-badge" alt="bmohaa" /></a> </p>
-
 - 🔭 I’m currently working on [Namaa Infologistics](https://namaa-il.com/)
 
-- 📫 How to reach me **mohamed.elareeg@gmail.com**
+- 📫 How to reach me: [mohamed.elareeg.contact@gmail.com](mailto:mohamed.elareeg.contact@gmail.com) | Phone: +201001029570
+
 
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
-<a href="https://twitter.com/bmohaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bmohaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamedelareeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedelareeg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23181891/mohamed-el-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23181891/mohamed-el-sayed" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed.elareeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.elareeg" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed.elareeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed.elareeg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohamedelsayedmohaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohamedelsayedmohaa" height="30" width="40" /></a>
+  <a href="https://wa.me/+201001029570" target="blank">
+    <img src="https://img.shields.io/badge/Contact%20on-WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="Contact on WhatsApp" />
+  </a> 
+  <a href="https://linkedin.com/in/mohamedelareeg" target="blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/23181891/mohamed-el-sayed" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow" alt="Follow on Stack Overflow" />
+  </a>
+  <a href="https://fb.com/mohamed.elareeg" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Facebook-blue?style=for-the-badge&logo=facebook" alt="Follow on Facebook" />
+  </a>
+  <a href="https://instagram.com/mohamed.elareeg" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-red?style=for-the-badge&logo=instagram" alt="Follow on Instagram" />
+  </a>
+  <a href="https://www.youtube.com/c/mohamedelsayedmohaa" target="blank">
+    <img src="https://img.shields.io/badge/Subscribe%20on-YouTube-red?style=for-the-badge&logo=youtube" alt="Subscribe on YouTube" />
+  </a>
+   <a href="https://twitter.com/bmohaa" target="blank">
+    <img src="https://img.shields.io/twitter/follow/bmohaa?logo=twitter&style=for-the-badge" alt="bmohaa" />
+  </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
