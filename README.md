@@ -9,8 +9,6 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelareeg" alt="mohamedelareeg" /></a> </p>
 
-- 🔭 I’m currently working on [Namaa Infologistics](https://namaa-il.com/)
-
 <h3 align="left">Connect with me:</h3>
 
 
