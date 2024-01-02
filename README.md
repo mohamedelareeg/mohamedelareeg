@@ -14,9 +14,6 @@
 
 
 I am actively seeking opportunities as a Senior .NET Developer. If you are looking for a skilled and experienced professional to join your team, feel free to reach out!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelareeg&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelareeg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelareeg" alt="mohamedelareeg" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -68,6 +65,11 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
     border-radius: 5px;">Hire Now</button>
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelareeg&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelareeg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelareeg" alt="mohamedelareeg" /></a> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
