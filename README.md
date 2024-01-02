@@ -54,10 +54,6 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
 </p>
 
 <p align="center">
-  Experienced professional available for freelance work. Let's collaborate!
-</p>
-
-<p align="center">
   <a href="https://www.upwork.com/freelancers/~017c14c090686b46e7" target="_blank" rel="noopener noreferrer">
     <button style="background-color: #4CAF50; /* Green */
     border: none;
