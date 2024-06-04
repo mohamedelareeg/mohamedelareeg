@@ -68,7 +68,6 @@ I am actively seeking opportunities as a Senior .NET Developer. If you are looki
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelareeg&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelareeg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedelareeg" alt="mohamedelareeg" /></a> </p>
 
 
 
